@@ -1,0 +1,20 @@
+# Build directory
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# Compiled executable (adjust based on project name)
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Editor files
+*.swp
+*.swo
+*~
+.DS_Store
+*cache*
