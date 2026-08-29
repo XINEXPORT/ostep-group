@@ -1,0 +1,12 @@
+# Compiled executable
+ch5-ctx-switch
+
+# Object files
+*.o
+*.obj
+
+# Editor files
+*.swp
+*.swo
+*~
+.DS_Store
